@@ -2,9 +2,9 @@
 ## CS 101                                                                ##
 ## PROGRAM 2                                                             ##
 ## KODY JOHNSON                                                          ##
-## KSJQM5@MAIL.UMKC.EDU                                                  ##
+##                                                                       ##
 ## CREATION DATE: 06-12 FEB 2017                                         ##
-## DUE DATE: 12 Feb 2017                                                 ##
+##                                                                       ##
 ##                                                                       ##
 ## PROBLEM:                                                              ## 
 ##    MUST CONSTRUCT A PROGRAM WHICH ASSISTS A USER IN                   ##   
@@ -21,23 +21,23 @@
 ##     ( > 0) repeat I1 until a valid input is received                  ##
 ##       reject (create a base)                                          ##
 ##    I5: Input must be > 0.                                             ##
-##	I6: If Input is < 0, warn the user and repeat I4 until           ##
-##	a vailed input is received                                       ##
+##	I6: If Input is < 0, warn the user and repeat I4 until               ##
+##	a vailed input is received                                           ##
 ##    I7: Ask the user if they would like to see details about           ##
 ##        the job offer                                                  ##
 ##    I8: Valid inputs must be (1 for yes or 2 for no)                   ##
-##	I9: If Input is outside limits, warn the user and                ##
-##	repeat I8 until a valid input is received                        ##
+##	I9: If Input is outside limits, warn the user and                    ##
+##	repeat I8 until a valid input is received                            ##
 ##    P1: Based on user inputs, generate Job offers with Gaussian        ##
 ##        distribution                                                   ##
 ##    P2: Reject, (Display if necessary), initial job offers. Keep       ##
 ##        a record of all the offers rejected.                           ##
 ##    P3: After Initial rejections, take the highest payed               ##
 ##       (rejected) offer and compare it to ALL future offers            ##
-##	P4: If Job offer Salary is < the Highest of the previou          ##
-##	    s offers, Reject                                             ##
-##	P5: If Job offer Salary is > previous Highest offer,             ##
-##	    Accept                                                       ##
+##	P4: If Job offer Salary is < the Highest of the previou              ##
+##	    s offers, Reject                                                 ##
+##	P5: If Job offer Salary is > previous Highest offer,                 ##
+##	    Accept                                                           ##
 ##    P6: If no other job offer is > any previous offer then             ##
 ##        automatically Accept the final offer                           ##
 ##    E1: Once Job offer is accepted, reject all remaining offers.       ##
@@ -50,7 +50,7 @@
 ##       (Y/YES or N/NO)                                                 ##
 ##    F2: If Input is outside limits, warn the user and repeat F1 until  ##
 ##        a valid input is received                                      ##
-##	F3: If Y/YES, Repeat to I1                                       ##
+##	F3: If Y/YES, Repeat to I1                                           ##
 ##    F4: Else end the program                                           ##
 ##                                                                       ##
 ###########################################################################
