@@ -1,0 +1,13 @@
+﻿  Vertix.cpp
+  Vehicle.cpp
+  Random_Data_Generator.cpp
+  main.cpp
+  Graph.cpp
+c:\users\kody\documents\portfolio\cs404 dispatch_project\graph.cpp(30): warning C4018: '<': signed/unsigned mismatch
+c:\users\kody\documents\portfolio\cs404 dispatch_project\graph.cpp(41): warning C4018: '<': signed/unsigned mismatch
+c:\users\kody\documents\portfolio\cs404 dispatch_project\graph.cpp(52): warning C4018: '<': signed/unsigned mismatch
+c:\users\kody\documents\portfolio\cs404 dispatch_project\graph.cpp(75): warning C4018: '<': signed/unsigned mismatch
+  Edge.cpp
+  Dispatcher.cpp
+  Generating Code...
+  cs404 mazin_sln.vcxproj -> C:\Users\Kody\Documents\Portfolio\CS404 Dispatch_Project\Debug\cs404 mazin_sln.exe
