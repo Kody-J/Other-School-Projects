@@ -1,0 +1,18 @@
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+Bagel
+Cupcake
+Donut
+Eclair
+Froyo
+Gingerbread
+Honeycomb
+Ice cream sandwich
+Jellybean
+Kit Kat
+The quick brown fox jumps over the lazy dog.
+I before E except after C 
+BBBBBBBBBBbbbbbbbbbbaa
+CCCCCCCCCCcccccccccc
+AeIoU
+END
