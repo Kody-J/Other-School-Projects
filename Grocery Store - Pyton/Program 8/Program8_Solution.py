@@ -1,10 +1,10 @@
 ######################################################################################
 ## CS 101
 ## PROGRAM 7
-## KODY JOHNSON
-## KSJQM5@MAIL.UMKC.EDU
+## 
+## 
 ## CREATIONDATE: 03-07 MAY 2017
-## DUE DATE: 07 APR 2017
+## 
 ##
 ##  PROBLEM:
 ##          GIVEN A SKELITON PROGRAM AND USING UNIT TESTING, CREATE A PROGRAM
