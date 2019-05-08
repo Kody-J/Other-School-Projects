@@ -2,10 +2,10 @@
 ###################################################################################
 ## CS 101                                                                        ##
 ## PROGRAM 3                                                                     ##
-## KODY JOHNSON                                                                  ##
-## KSJQM5@MAIL.UMKC.EDU                                                          ##
+##                                                                               ##
+##                                                                               ##
 ## CREATION DATE: 20-25 FEB 2017                                                 ##
-## DUE DATE: 26 Feb 2017                                                         ##
+##                                                                               ##
 ##                                                                               ##
 ## PROBLEM:                                                                      ## 
 ##    CREATE A BRAIN GAME THAT DIPLAYS A WORD TO THE USER. THE WORD              ##
@@ -16,15 +16,15 @@
 ##                                                                               ##
 ## ALGORITHM:                                                                    ##
 ## I1: Greet the user and Display the game set                                   ##
-##	* Chose a number of problems.                                            ##
-##	* A window will pop up with a countdown after the countdown the          ##
+##	* Chose a number of problems.                                                ##
+##	* A window will pop up with a countdown after the countdown the              ##
 ##          game begins                                                          ##
-##	* A word in a given color will be displayed, Red, Green or Blue          ##
+##	* A word in a given color will be displayed, Red, Green or Blue              ##
 ##          The text of the word  will also be red, green or blue                ##
 ##          Enter the color of the word shown ( R - Red, G - Green, B -          ##
 ##           Blue )                                                              ##
 ##          not the word, but the color of the word                              ##
-##	* After the game is over, you'll be shown how many you got right,        ##
+##	* After the game is over, you'll be shown how many you got right,            ##
 ##          the percentage and how long it took you.                             ##
 ##                                                                               ##
 ##        UI1: Ask user how many problems to try.                                ##
@@ -33,15 +33,15 @@
 ##                    valid entry entered                                        ##
 ##        GM1: Initialize the ‘Game Mode’                                        ##
 ##        GM2: Create a UI graphics screen for the game to take place.           ##
-##		GM2: Graphics should prompt the user to ‘click when ready’       ##
-##		GM4: Once user is ready, display a count down from 5 and         ##
-##		     start the game                                              ##
+##		GM2: Graphics should prompt the user to ‘click when ready’               ##
+##		GM4: Once user is ready, display a count down from 5 and                 ##
+##		     start the game                                                      ##
 ##        PM1: While the user is playing:                                        ##
-##		PM2: A Numbered problem is displayed, one at a time              ##
+##		PM2: A Numbered problem is displayed, one at a time                      ##
 ##        PM3: Each problem will be a print of a random ‘color string’ and the   ##
 ##             string will BE a random color                                     ##
 ##        PM4: Allow user to input R for (Red), G (Green), and B (Blue)          ##
-##	      (User is guessing the actual color of the string not what          ##
+##	      (User is guessing the actual color of the string not what              ##
 ##             color the string spells)                                          ##
 ##        PM5: If user guess == color of the color_str                           ##
 ##                PM5.1: add 1 to correct answer variable                        ##
